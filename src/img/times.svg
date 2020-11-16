@@ -1,0 +1,6 @@
+<svg role="img" class="icon -times" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" aria-labelledby="times-title-icon">
+	<title id="times-title-icon">Símbolo de multiplicação</title>
+	<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round">
+		<path d="M2 2l20 20M22 2L2 22" />
+	</g>
+</svg>

@@ -1,0 +1,48 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+
+  .th {
+    text-align: left;
+  }
+
+  .tr {
+    cursor: pointer;
+
+    &:nth-child(even) {
+      background: #cbcbcb;
+    }
+
+    .td {
+      border-top: 1px solid #000;
+      padding: 10px 5px;
+    }
+  }
+}
+
+.mt {
+  margin-top: 20px;
+}
+
+.block {
+  display: flow-root;
+  border-top: 1px solid #cdd3cd;
+  padding: 2px 0;
+}
+
+.block-inline {
+  display: inline-block;
+  padding: 20px;
+
+  label {
+    display: block;
+  }
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
